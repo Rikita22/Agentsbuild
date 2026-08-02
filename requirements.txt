@@ -1,0 +1,4 @@
+﻿agentspan
+python-dotenv
+pydantic
+firecrawl-py
